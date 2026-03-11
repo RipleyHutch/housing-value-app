@@ -1,0 +1,8 @@
+Packages required for Deep Neural Network
+
+streamlit
+pandas
+numpy
+scikit-learn
+tensorflow
+joblib
